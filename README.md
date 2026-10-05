@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/82a04c54-dd1a-4a17-9d53-857846d9ac72
+
 
 # Three.js Interactive Shader Animations
 
@@ -76,7 +76,6 @@ This repository contains two different mouse hover animation logic scripts. You 
 ### Animation 1 (`script.js`)
 *A dynamic, real-time wave distortion effect that follows your cursor.*
 
-[![Watch the video]]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/ashwinchhimpaxd/Mouse-hover-shader-interaction/blob/main/public/Videos/videoscript.mp4))
 
 ### Animation 2 (`script2.js`)
 *A smooth, organic hover reveal effect with fade-in and fade-out transitions.*
