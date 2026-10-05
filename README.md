@@ -83,8 +83,8 @@ This repository contains two different mouse hover animation logic scripts. You 
 
 ---
 
-## 🤝 Contributing
-Feel free to fork this project, experiment with the GLSL shaders, add your own effects, and submit pull requests!
+## 🤝 opensource
+Feel free to use this code and anmaiton for your project 
 
 ## 📜 License
 This project is open-source and free to use!
