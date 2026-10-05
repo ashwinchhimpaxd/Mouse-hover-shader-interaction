@@ -72,7 +72,7 @@ This repository contains two different mouse hover animation logic scripts. You 
 ### Animation 1 (`script.js`)
 *A dynamic, real-time wave distortion effect that follows your cursor.*
 
-<video src="./public/Videos/videoscript.mp4" controls="controls" muted="muted" width="100%"></video>
+[![Watch the video]]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/ashwinchhimpaxd/Mouse-hover-shader-interaction/blob/main/public/Videos/videoscript.mp4))
 
 ### Animation 2 (`script2.js`)
 *A smooth, organic hover reveal effect with fade-in and fade-out transitions.*
