@@ -1,3 +1,4 @@
+
 # Three.js Interactive Shader Animations
 
 An open-source collection of interactive, mouse-driven shader animations built with [Three.js](https://threejs.org/) and custom GLSL shaders.
@@ -71,13 +72,14 @@ This repository contains two different mouse hover animation logic scripts. You 
 
 ### Animation 1 (`script.js`)
 *A dynamic, real-time wave distortion effect that follows your cursor.*
+<img width="800" height="450" alt="videoone" src="https://github.com/user-attachments/assets/9c9dbc90-d24a-4eab-b89e-ecf2248482a3" />
 
-<video src="./public/Videos/videoscript.mp4" controls="controls" muted="muted" width="100%"></video>
 
 ### Animation 2 (`script2.js`)
 *A smooth, organic hover reveal effect with fade-in and fade-out transitions.*
 
-<video src="./public/Videos/videoscript2.mp4" controls="controls" muted="muted" width="100%"></video>
+<img width="800" height="450" alt="videotwo" src="https://github.com/user-attachments/assets/4ef9f1bd-38f4-4660-b148-e48cb9d59120" />
+
 
 ---
 
